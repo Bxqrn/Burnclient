@@ -55,7 +55,22 @@ Want to see how much BurnClient **boosts** your gameplay? Here are the real-worl
 - **Memory Usage**: 1.2GB (reduced)
 
 ### **Performance Chart**
-![FPS Boost Comparison](https://raw.githubusercontent.com/Bxqrn/BurnClient/main/assets/fps-comparison-chart.png)
+
+Here's the **FPS Boost Comparison** showing the performance differences before and after BurnClient:
+
+```html
+<div style="width: 100%; display: flex; justify-content: center; align-items: flex-end; gap: 20px; margin-top: 20px;">
+  <div style="height: 300px; width: 30%; background-color: #e74c3c; border-radius: 10px 10px 0 0; position: relative;">
+    <div style="position: absolute; bottom: -20px; left: 50%; transform: translateX(-50%); font-size: 14px; color: white;">
+      45 FPS
+    </div>
+  </div>
+  <div style="height: 600px; width: 30%; background-color: #2ecc71; border-radius: 10px 10px 0 0; position: relative;">
+    <div style="position: absolute; bottom: -20px; left: 50%; transform: translateX(-50%); font-size: 14px; color: white;">
+      120 FPS
+    </div>
+  </div>
+</div>
 
 This chart showcases the **FPS boost** you can expect using BurnClient on both low-end and high-end devices. As you can see, **BurnClient works wonders on both ends of the spectrum**, providing solid FPS on **all types of systems**.
 
