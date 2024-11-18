@@ -114,3 +114,5 @@ Have a question? **Need help** or want to request a feature? Join our [GitHub Di
 **BurnClient** is brought to you by a **dedicated team** of developers focused on giving you the **best** possible **Eaglercraft** experience. Don’t just play—**optimize** and **dominate** with **BurnClient**.
 
 🔥 **Get BurnClient today** and elevate your Eaglercraft experience like never before!
+
+**GitHub Repository:** [BurnClient on GitHub](https://github.com/Bxqrn/BurnClient)
