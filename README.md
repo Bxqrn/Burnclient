@@ -47,8 +47,8 @@ Please ensure your code follows the project's coding standards and include relev
 
 ## Metrics & Statistics
 
-![Downloads](https://img.shields.io/github/downloads/YourUsername/BurnClient/total)
-![Issues](https://img.shields.io/github/issues/YourUsername/BurnClient)
+![Downloads](https://img.shields.io/github/downloads/Bxqrn/BurnClient/total)
+![Issues](https://img.shields.io/github/issues/Bxqrn/BurnClient)
 
 ## License
 
