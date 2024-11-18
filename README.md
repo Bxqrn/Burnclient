@@ -55,22 +55,7 @@ Want to see how much BurnClient **boosts** your gameplay? Here are the real-worl
 - **Memory Usage**: 1.2GB (reduced)
 
 ### **Performance Chart**
-
-Here's the **FPS Boost Comparison** showing the performance differences before and after BurnClient:
-
-```html
-<div style="width: 100%; display: flex; justify-content: center; align-items: flex-end; gap: 20px; margin-top: 20px;">
-  <div style="height: 300px; width: 30%; background-color: #e74c3c; border-radius: 10px 10px 0 0; position: relative;">
-    <div style="position: absolute; bottom: -20px; left: 50%; transform: translateX(-50%); font-size: 14px; color: white;">
-      45 FPS
-    </div>
-  </div>
-  <div style="height: 600px; width: 30%; background-color: #2ecc71; border-radius: 10px 10px 0 0; position: relative;">
-    <div style="position: absolute; bottom: -20px; left: 50%; transform: translateX(-50%); font-size: 14px; color: white;">
-      120 FPS
-    </div>
-  </div>
-</div>
+![FPS Boost Comparison](https://raw.githubusercontent.com/Bxqrn/BurnClient/main/assets/fps-comparison-chart.png)
 
 This chart showcases the **FPS boost** you can expect using BurnClient on both low-end and high-end devices. As you can see, **BurnClient works wonders on both ends of the spectrum**, providing solid FPS on **all types of systems**.
 
@@ -125,9 +110,3 @@ For more details, bug reports, or feature requests, please open an issue or cont
 **BurnClient** is brought to you by a passionate team of developers committed to improving your **Eaglercraft** experience. Join the community today and start optimizing your game like never before!
 
 ---
-
-### Additional Features
-
-- **Dark Mode**: We support a dark mode toggle for BurnClient! Choose between light and dark modes based on your preference.
-- **FPS Benchmarks**: Built-in FPS benchmarks to automatically test and compare your system’s performance after installing BurnClient.
-- **Real-Time Analytics**: See live analytics of your system performance and FPS using an in-app overlay (coming soon!).
