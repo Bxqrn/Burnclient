@@ -1,8 +1,8 @@
-# BurnClient 🔥
+# 🔥 **BurnClient - The Ultimate FPS Powerhouse for Eaglercraft**
 
-**BurnClient** is the ultimate performance-enhancing **Eaglercraft** client designed to **drastically boost your FPS** while keeping your system resource usage at an absolute minimum. Whether you're running **Eaglercraft** on a high-end rig or a low-end PC, **BurnClient** ensures that your experience is **lag-free**, **smooth**, and **ultra-responsive**.
+**BurnClient** isn’t just a client; it’s a **game-changer** for **Eaglercraft** players who demand **lightning-fast FPS** and **lag-free gameplay**. Whether you're on a high-end gaming rig or a modest PC, BurnClient **maximizes performance** while keeping your system **light** and **responsive**.
 
-**Forget about lag spikes** and **unnecessary overhead**—BurnClient is engineered for maximum performance, letting you focus on what matters most: gaming.
+Say goodbye to **stuttering, frame drops**, and **high system load**. **BurnClient** takes **Eaglercraft** to the next level with **unmatched FPS boosts** and **seamless gameplay**. It’s not just optimized—it’s **tuned to perfection** for players who expect the absolute best.
 
 ![BurnClient](https://img.shields.io/badge/Performance-FPS%20Booster-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -10,103 +10,107 @@
 ![Contributors](https://img.shields.io/github/contributors/Bxqrn/BurnClient)
 ![Issues](https://img.shields.io/github/issues/Bxqrn/BurnClient)
 
-## Why BurnClient?
+## Why Choose BurnClient?
 
-BurnClient isn’t just a tool; it’s **Eaglercraft’s best FPS booster**, **performance optimizer**, and **gameplay enhancer**. Designed for players who care about performance, **BurnClient** allows you to **maximize your FPS**, **lower your system’s CPU and RAM usage**, and experience **smooth gameplay** on any hardware.
+BurnClient isn’t just another tool; it’s **Eaglercraft’s best FPS booster** and **performance optimizer**. Whether you’re playing on **high-end hardware** or a **low-end PC**, BurnClient ensures your gameplay is smooth, crisp, and **lag-free**.
 
-## Key Features
+### **🔥 Key Features:**
 
-- **Massive FPS Boost**: Boost your frame rates by up to **200%** with zero lag. Say goodbye to stuttering and high latency!
-- **Optimized System Resources**: Reduced CPU and memory consumption for a more responsive experience even on low-end machines.
-- **No Bloat, No GUI**: A **lightweight** client with **no unnecessary features**. Pure performance—only what you need.
-- **Seamless Vanilla & Modded Support**: Fully optimized for both vanilla **Eaglercraft** and modded setups, providing stellar performance no matter your playstyle.
-- **Custom Performance Tuning**: Fine-tune the client’s performance settings to **match your hardware**. Optimize every last frame.
-- **Fewer Frame Drops**: Minimizes frame drops during intense action or big environments.
+- **Massive FPS Boost**: See up to **200% improvement** in frame rates. No more lag, just **smooth**, **responsive** gameplay.
+- **Optimized System Resources**: Enjoy **low CPU and memory consumption**, even on lower-end systems, for a **snappy experience**.
+- **No Bloat**: **Zero unnecessary features**—BurnClient focuses purely on what you need: **performance**.
+- **Seamless Vanilla & Modded Support**: Whether you're in **vanilla** or **modded worlds**, **BurnClient** handles it all with ease.
+- **Custom Performance Tuning**: Fine-tune settings to match **your specific hardware**, optimizing every last frame.
+- **Reduced Frame Drops**: Play with confidence, even during **intense battles** or in **vast biomes**—frame drops are **minimized** to **near-zero**.
 
-## Installation
+### 🚀 **Installation Made Simple:**
 
-**BurnClient** is simple to install and requires **minimal setup**. Get started in just a few steps:
-
-### Steps to Install:
+BurnClient is incredibly easy to set up—get started in **minutes**:
 
 1. Download the latest version from the [Releases](https://github.com/Bxqrn/BurnClient/releases) page.
-2. Extract the ZIP file and follow the instructions in the README.
-3. **Launch BurnClient** and enjoy a **boosted **Eaglercraft** experience**!
+2. Extract the files and follow the instructions in the **README**.
+3. **Launch BurnClient** and experience a **significant FPS boost** right away!
 
-### Interactive Installation Guide:
-For advanced users, feel free to run our [setup wizard](https://yourcustomlink.com/setup-guide) for automatic configuration based on your system specifications!
+For advanced users, we offer a **setup wizard** that auto-configures BurnClient to **your system specs** for a personalized setup.
 
----
+### **Performance Breakdown:**
 
-## Performance Metrics
+Before BurnClient, you may experience:
 
-Want to see how much BurnClient **boosts** your gameplay? Here are the real-world performance results:
+- **FPS**: 45 FPS (average)
+- **CPU Usage**: 80%+
+- **Memory Usage**: 2GB
+- **Frequent Frame Drops**: Especially in **multiplayer** or **large biomes**.
 
-### **Before BurnClient**
-- **Average FPS**: 45 FPS
-- **Frame Drops**: Frequent (especially in large biomes, multiplayer)
-- **CPU Usage**: 80%+ (high load)
-- **Memory Usage**: 2GB (heavy)
+After BurnClient, you’ll enjoy:
 
-### **After BurnClient**
-- **Average FPS**: 120 FPS (Up to **200% faster**)
-- **Frame Drops**: **Near Zero** (smooth transitions)
-- **CPU Usage**: 50% (optimized)
+- **FPS**: 120 FPS (Up to **200% faster**)
+- **CPU Usage**: 50% (optimized for efficiency)
 - **Memory Usage**: 1.2GB (reduced)
+- **Near-zero frame drops**: Smooth transitions, even in the most intense moments.
 
 ### **Performance Chart**
-![FPS Boost Comparison](https://raw.githubusercontent.com/Bxqrn/BurnClient/main/assets/fps-comparison-chart.png)
 
-This chart showcases the **FPS boost** you can expect using BurnClient on both low-end and high-end devices. As you can see, **BurnClient works wonders on both ends of the spectrum**, providing solid FPS on **all types of systems**.
+Here’s the proof—**BurnClient delivers**. Check out how much your FPS can improve with BurnClient:
+
+![FPS Boost Comparison](https://raw.githubusercontent.com/Bxqrn/BurnClient/main/assets/fps-comparison-chart.png)
 
 ---
 
-## Code Metrics and Analytics
+## **Code Excellence and Analytics**:
 
-BurnClient isn’t just efficient in gameplay; it’s also optimized in **code performance**:
+BurnClient isn’t just about FPS; it’s about **optimized code performance**. We keep things **lean** and **efficient**.
+
+- **Lines of Code**: Clean and concise.
+- **Commits**: Consistent improvements with regular updates.
+- **Test Coverage**: 95% (ensuring a **bug-free experience**).
+- **Pull Requests**: Open to the community—help us make BurnClient even better!
 
 ![Lines of Code](https://img.shields.io/github/languages/code-size/Bxqrn/BurnClient)
 ![Commits](https://img.shields.io/github/commit-activity/m/Bxqrn/BurnClient)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Bxqrn/BurnClient)
 ![Test Coverage](https://img.shields.io/coveralls/github/Bxqrn/BurnClient?style=flat-square)
 
-BurnClient is **clean, efficient**, and **easy to contribute to**. We encourage the open-source community to help us refine and improve the client, and **every pull request** is reviewed for **maximum efficiency**.
+---
+
+## **Advanced Customization**:
+
+BurnClient isn’t just fast; it’s **extremely customizable**:
+
+- **Thread Priority Adjustments**: Manually allocate CPU resources to ensure **maximum performance** for Eaglercraft.
+- **Graphical Tweaks**: Fine-tune visual settings for the **best frame rate** and **quality**.
+- **Memory Management**: Reduce lag, even when running **large worlds** or mods.
+
+Perfect for users who want **complete control** over their experience.
 
 ---
 
-## Advanced Usage
+## **Contribute and Improve BurnClient**:
 
-For those looking to **optimize even further**, BurnClient provides advanced settings to customize your FPS boost. These include:
+We want BurnClient to get faster, better, and more powerful. **Join the community**, **submit improvements**, and **help us optimize** this client even further. Whether you have a **performance tweak**, a **bug fix**, or a **feature idea**, **BurnClient** is open-source and we encourage you to get involved.
 
-- **Thread Priority Adjustments**: Manually adjust CPU thread allocation for **Eaglercraft** to prioritize game performance.
-- **Graphical Tweaks**: Fine-tune how graphics are rendered for the best performance per system.
-- **Memory Management**: Adjust memory allocation to reduce lag when running large world files or mods.
+- **Total Contributors**: Help shape BurnClient's future!
+- **Open Pull Requests**: Got ideas? Submit them and **improve BurnClient**.
+- **Code Coverage**: Our tests ensure BurnClient runs perfectly.
 
----
-
-## Contributing
-
-Want to help make **BurnClient** even faster? We welcome contributors to the project. Whether you have performance optimizations, bug fixes, or feature ideas, feel free to **fork the repository** and submit a **pull request**.
-
-Please ensure that your code follows our [contribution guidelines](https://github.com/Bxqrn/BurnClient/wiki/Contributing) for the best integration.
-
-### Contribution Stats:
-- **Total Contributors**: ![Contributors](https://img.shields.io/github/contributors/Bxqrn/BurnClient)
-- **Pull Requests Open**: ![PRs Open](https://img.shields.io/github/issues-pr/Bxqrn/BurnClient)
-- **Code Coverage**: 95% (Through unit testing and benchmarks)
+![Contributors](https://img.shields.io/github/contributors/Bxqrn/BurnClient)
+![PRs Open](https://img.shields.io/github/issues-pr/Bxqrn/BurnClient)
+![Code Coverage](https://img.shields.io/coveralls/github/Bxqrn/BurnClient?style=flat-square)
 
 ---
 
-## License
+## **License**:
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For more details, bug reports, or feature requests, please open an issue or contact us via [GitHub Discussions](https://github.com/Bxqrn/BurnClient/discussions).
+BurnClient is licensed under the **MIT License**. Check out the full details in the [LICENSE](LICENSE) file.
 
 ---
 
-**BurnClient** is brought to you by a passionate team of developers committed to improving your **Eaglercraft** experience. Join the community today and start optimizing your game like never before!
+## **Contact and Support**:
+
+Have a question? **Need help** or want to request a feature? Join our [GitHub Discussions](https://github.com/Bxqrn/BurnClient/discussions) or open an issue for support.
 
 ---
+
+**BurnClient** is brought to you by a **dedicated team** of developers focused on giving you the **best** possible **Eaglercraft** experience. Don’t just play—**optimize** and **dominate** with **BurnClient**.
+
+🔥 **Get BurnClient today** and elevate your Eaglercraft experience like never before!
