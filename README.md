@@ -6,7 +6,7 @@ Say goodbye to **stuttering, frame drops**, and **high system load**. **BurnClie
 
 ![BurnClient](https://img.shields.io/badge/Performance-FPS%20Booster-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Downloads](https://img.shields.io/github/releases/Bxqrn/BurnClient/total)
+![Downloads](https://img.shields.io/github/downloads/Bxqrn/BurnClient/total)
 ![Contributors](https://img.shields.io/github/contributors/Bxqrn/BurnClient)
 ![Issues](https://img.shields.io/github/issues/Bxqrn/BurnClient)
 
